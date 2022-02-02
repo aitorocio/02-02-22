@@ -12,8 +12,10 @@
 header{
     display:flex;
     background-color: aquamarine;
-    height: 30vh;
+    height: 5vh;
+    justify-content:space-between;
 }
+
 a{
     height: fit-content;
     padding: 15px;
