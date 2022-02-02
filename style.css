@@ -8,3 +8,11 @@
 @import "./css/grid.css";
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
+
+header{
+    display:flex;
+    background-color: aquamarine;
+}
+a{
+    padding: 15px;
+}
