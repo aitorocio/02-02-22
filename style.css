@@ -14,9 +14,18 @@ header{
     background-color: aquamarine;
     height: 5vh;
     justify-content:space-between;
+    align-self:center;
+}
+nav{
+    height: 100%;
+}
+
+img{
+    height: 100%;
 }
 
 a{
     height: fit-content;
-    padding: 15px;
+    padding: 120px;
 }
+

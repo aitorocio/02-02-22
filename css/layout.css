@@ -3,3 +3,9 @@
 
 
 /*ipad*/
+
+@media (max-width: 600px) {
+  header{
+      flex-direction: row-reverse;
+  }
+}
